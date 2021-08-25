@@ -7,11 +7,17 @@ Citation:
 Arthur, VL, Guan, W, Loza, B-l, Keating, B, Chen, J. Joint testing of donor and recipient genetic matching scores and recipient genotype has robust power for finding genes associated with transplant outcomes. Genetic Epidemiology. 2020; 44: 893– 907. https://doi.org/10.1002/gepi.22349
 
 Directories:
+
 -Paper1_CodeToSendToCollabs: Code used to conduct real data analysis on time-to-event data for liver transplant. Code was sent to collaborators to conduct the testing.
+
 -Gene_Files: Files with SNP info from the genes used in simulation studies. All data is from publically available HapMap3 datasets.
+
 -VCFheaderfiles: Headers for creating VCF files when running simulations.
+
 -Related_Pairs_Files: File to pair simulated haplotypes into genotype data
+
 -Create_Tables_And_Figures: Code used to create all tables and figures in the manuscript
+
 -All_Scripts_For_Paper1_Simulation_Pipeline: All scripts used in the simulation pipeline for the manuscript
 
 ----------------------------------------------------------
