@@ -1,0 +1,30 @@
+Significant SNPs from Joint Analysis. Bonferroni P-value: 0.007143
+
+SNP	Score	Jt Score HR (95% CI)	Jt R Geno HR (95% CI)	Jt P-value
+rs4335	AMS Score	0.89 (0.72, 1.09)	1.22 (1, 1.48)	0.049393
+rs4335	Binary Mismatch Score	0.74 (0.55, 0.99)	1.21 (0.99, 1.48)	0.011213
+rs4343	AMS Score	0.89 (0.72, 1.09)	1.22 (1, 1.48)	0.045415
+rs4343	Binary Mismatch Score	0.74 (0.55, 0.99)	1.21 (0.99, 1.48)	0.010952
+rs4353	Binary Mismatch Score	0.8 (0.6, 1.07)	0.82 (0.67, 1)	0.035261
+rs4363	IBS Mismatch Score	0.97 (0.79, 1.2)	1.27 (1.05, 1.54)	0.040907
+rs4363	Incompatibility Score	0.91 (0.7, 1.19)	1.27 (1.05, 1.54)	0.033939
+rs4363	AMS Score	0.88 (0.71, 1.08)	1.27 (1.04, 1.54)	0.019292
+rs4363	Binary Mismatch Score	0.73 (0.55, 0.98)	1.27 (1.04, 1.55)	0.004578
+
+
+Univariate Analysis Results 
+
+SNP	Score/Genotype	HR (95% CI)	P-value
+rs4363	IBS Mismatch Score	0.95 (0.77, 1.16)	0.604307
+rs4363	Incompatibility Score	0.9 (0.69, 1.17)	0.421705
+rs4335	AMS Score	0.86 (0.7, 1.05)	0.136882
+rs4343	AMS Score	0.85 (0.7, 1.05)	0.129133
+rs4363	AMS Score	0.85 (0.69, 1.05)	0.130017
+rs4335	Binary Mismatch Score	0.71 (0.53, 0.95)	0.020428
+rs4343	Binary Mismatch Score	0.71 (0.53, 0.95)	0.020998
+rs4353	Binary Mismatch Score	0.79 (0.59, 1.05)	0.102451
+rs4363	Binary Mismatch Score	0.71 (0.53, 0.96)	0.023504
+rs4335	Recipient Genotype	1.22 (1.01, 1.47)	0.036703
+rs4343	Recipient Genotype	1.22 (1.01, 1.48)	0.034973
+rs4363	Recipient Genotype	1.26 (1.05, 1.52)	0.014993
+rs4353	Recipient Genotype	0.83 (0.68, 1)	0.047262

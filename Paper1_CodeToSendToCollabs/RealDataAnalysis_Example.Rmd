@@ -1,0 +1,26 @@
+---
+title: "Real Data Analysis Example"
+author: "Victoria Arthur"
+date: "3/10/2020"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+#need to change this to be where the RealDataAnalysisCode.R file is located
+fileLocation = paste0("C:/Users/ickme/Box Sync/V_Arthur_Dissertation_Work/Project_One_Work/CodeToSendToCollabs/")
+source(paste0(fileLocation,"RealDataAnalysisCode.R"))
+
+ex_datafile = "Example_Datafile.csv"
+ex_pairIds = "Example_Pair_Ids.txt"
+ex_covariates = "Example_Covariates.txt"
+ex_outfile =  "ExampleOut.txt"
+runDonorRecipScoreMethod(datafile = ex_datafile, 
+                         matchedPairs = ex_pairIds, 
+                         covFile = ex_covariates, 
+                         outFile = ex_outfile)
+```
+
